@@ -1,4 +1,4 @@
-# jfrog-artifactory
+# Install Artifactory in Amazon Linux2  and AWS EC2
 
 ## Pre-requisites:
     - T2.small EC2 instance (Linux)
