@@ -19,7 +19,7 @@
     unzip jfrog-artifactory-oss-6.9.6.zip
 
 ## Start the services
-    cd /opt/jfrog-artifactory-oss-6.9.6/bin
+    cd /opt/artifactory-oss-6.9.6/bin
     ./artifactory.sh start
 
 ## Access artifactory from browser
