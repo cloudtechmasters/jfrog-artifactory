@@ -27,4 +27,4 @@
 
 ## Credentials
     username: admin
-    passord: passwrod
+    passord: password
